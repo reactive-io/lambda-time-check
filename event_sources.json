@@ -1,0 +1,14 @@
+{
+  "ScheduleEvents": [
+    {
+      "ScheduleName": "lambdaScheduleMinute",
+      "ScheduleState": "ENABLED",
+      "ScheduleExpression": "rate(1 minute)"
+    },
+    {
+      "ScheduleName": "lambdaScheduleHour",
+      "ScheduleState": "ENABLED",
+      "ScheduleExpression": "rate(1 hour)"
+    }
+  ]
+}

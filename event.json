@@ -1,0 +1,13 @@
+{
+    "version": "0",
+    "id": "31c8fc0a-83c4-4090-879f-c332abf2ac56",
+    "detail-type": "Scheduled Event",
+    "source": "aws.events",
+    "account": "413393433554",
+    "time": "2017-04-17T19:00:11Z",
+    "region": "us-west-2",
+    "resources": [
+        "arn:aws:events:us-west-2:413393433554:rule/Schedule"
+    ],
+    "detail": {}
+}

@@ -1,0 +1,11 @@
+{
+    "callbackWaitsForEmptyEventLoop": true,
+    "logGroupName": "/aws/lambda/timeCheck",
+    "logStreamName": "2017/04/18/[$LATEST]a85289f966794c7f9e4cde802a2d2eb9",
+    "functionName": "timeCheck",
+    "memoryLimitInMB": "128",
+    "functionVersion": "$LATEST",
+    "invokeid": "99a41b8e-23d3-11e7-9169-1979b9b89750",
+    "awsRequestId": "99a41b8e-23d3-11e7-9169-1979b9b89750",
+    "invokedFunctionArn": "arn:aws:lambda:us-west-2:413393433554:function:timeCheck"
+}

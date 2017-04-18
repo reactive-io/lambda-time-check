@@ -1,4 +1,5 @@
 {
+  "EventSourceMappings": [],
   "ScheduleEvents": [
     {
       "ScheduleName": "lambdaScheduleMinute",
